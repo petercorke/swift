@@ -5,12 +5,7 @@ never kept a changelog before, so this covers everything since the last
 PyPI release, v1.1.0 (2023-04-30) — effectively three years of accumulated
 work on the `future` branch, now merged into `main`, plus everything since.
 
-## [Unreleased] — targeting 2.0.0
-
-Not yet published to PyPI (latest release there is still v1.1.0;
-`pyproject.toml` is already at `2.0.0`). This section becomes the
-`## [2.0.0] - YYYY-MM-DD` entry once that release actually ships —
-everything below covers `main` as it stands in the meantime.
+## [2.0.0] - 2026-08-23
 
 ### Breaking
 
